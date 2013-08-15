@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessInsight.Web", "ProcessInsight.Web\ProcessInsight.Web.csproj", "{DE47A08A-CF9E-4EBE-BE37-3C1979AEB282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessInsight.Services", "ProcessInsight.Services\ProcessInsight.Services.csproj", "{77E311B4-DEE9-463A-8D1E-60EFBD413238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessInsight.Contracts", "ProcessInsight.Contracts\ProcessInsight.Contracts.csproj", "{3206DF8D-2C03-4858-AA14-45F578EBDB2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessInsight.DataAccess", "ProcessInsight.DataAccess\ProcessInsight.DataAccess.csproj", "{AC696260-B594-4201-89BD-00712E04A637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE47A08A-CF9E-4EBE-BE37-3C1979AEB282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE47A08A-CF9E-4EBE-BE37-3C1979AEB282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE47A08A-CF9E-4EBE-BE37-3C1979AEB282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE47A08A-CF9E-4EBE-BE37-3C1979AEB282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E311B4-DEE9-463A-8D1E-60EFBD413238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E311B4-DEE9-463A-8D1E-60EFBD413238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E311B4-DEE9-463A-8D1E-60EFBD413238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E311B4-DEE9-463A-8D1E-60EFBD413238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3206DF8D-2C03-4858-AA14-45F578EBDB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3206DF8D-2C03-4858-AA14-45F578EBDB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3206DF8D-2C03-4858-AA14-45F578EBDB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3206DF8D-2C03-4858-AA14-45F578EBDB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC696260-B594-4201-89BD-00712E04A637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC696260-B594-4201-89BD-00712E04A637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC696260-B594-4201-89BD-00712E04A637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC696260-B594-4201-89BD-00712E04A637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
